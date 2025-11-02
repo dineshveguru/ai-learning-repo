@@ -1,6 +1,6 @@
 # Byte Level Byte pair Encoder
 
-This codebase is highly motivated on Karparthy Tokenization Tutorials
+This codebase is highly motivated on Karpathy Tokenization Tutorials
 
 Youtube link: https://youtu.be/zduSFxRajkE?si=6MFuUCdPSUFT_NpW
 
