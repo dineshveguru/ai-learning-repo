@@ -36,6 +36,12 @@ class BPEHelpers:
     def decode(self, ids:List) -> str:
         raise NotImplementedError
     
+    def load(self, file_name: str):
+        raise NotImplementedError
+    
+    def save(self, file_name: str):
+        raise NotImplementedError
+    
     def _build_vocab(self):
         vocab = {idx: bytes([idx]) for idx in range(256)}
         for (p0, p1), idx in self.merges.items():
