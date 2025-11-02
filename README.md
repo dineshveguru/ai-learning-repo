@@ -7,7 +7,7 @@ Code. Plot. Break. Repeat.
 ---
 
 ## Tokenization & Embeddings
-- [ ] Build a byte-pair encoder (BPE) and train your own subword vocab  
+- [x] Build a byte-pair encoder (BPE) and train your own subword vocab  
 - [ ] Write a token visualizer to map words/chunks → token IDs  
 - [ ] Compare one-hot vs learned embeddings, and  
   - [ ] Plot cosine distances between token vectors  
