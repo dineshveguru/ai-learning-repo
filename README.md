@@ -1,6 +1,6 @@
 # ai-learning-repo
 This repo contains code related to my learnings in GenAI. I've following these tasks and I will be updating each task in a python file
-
+> **Note:** This entire repository was built from scratch without using any AI assistance — every line of code was written by hand to ensure deep understanding of the underlying concepts.
 ## Tasks
 Code. Plot. Break. Repeat.  
 
