@@ -1,1 +1,4 @@
 *__pycache__/
+.venv
+trained_corpus.model
+trained_corpus.vocab
